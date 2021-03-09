@@ -20,9 +20,7 @@
 
 ### About me:
 <p style='text-align: justify' >
-  Hello, my name is Gerardo, I am a student of <strong>Software Engineering</strong> at the Federal University of Ceará, and I have a certain better attachment in    the Front-end, and Web developer ... I really like to program, and I don't do it just for work, but as a hobby. And every day, I try to update myself on the      new technologies that have been innovating every day in recent times.
-
-I am currently giving preference to my learning with the React framework, giving prominence on the Web and Mobile platforms, acting more on the front side.
+  Hello, my name is Gerardo and I'm a student of Software Engineering at the Federal University of Ceará (UFC). I'm looking for and developing skills in the Front-end area because that's where I had the most interest. I see programming as something that I want to take for life and I always try to improve my skills by seeking new knowledge for the technologies that are increasingly innovating. Currently, I'm learning React framework, with an emphasis on Web and Mobile platforms, working more on the front-end.
 
 
  
