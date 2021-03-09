@@ -1,20 +1,17 @@
-<h1 align="center">
-  Hey there! I'm Gerardo Filho, a web developer and a student of Software Engeering from Fortaleza/CE - Brazil.
-</h1>
+![Web developer](https://github.com/GerardoFilho/GerardoFilho/blob/main/banner.jpg)
 
+### Hi 👋, my name is Gerardo
+#### Web developer
 
-### About me:
-<p style='text-align: justify' >
-  Hello, my name is Gerardo and I'm a student of Software Engineering at the Federal University of Ceará (UFC). I'm looking for and developing skills in the Front-end area because that's where I had the most interest. I see programming as something that I want to take for life and I always try to improve my skills by seeking new knowledge for the technologies that are increasingly innovating. Currently, I'm learning React framework, with an emphasis on Web and Mobile platforms, working more on the front-end.
+Hey there! I'm Gerardo Filho, a web developer and a student of Software Engeering from Fortaleza/CE - Brazil. I'm looking for and developing skills in the Front-end area because that's where I had the most interest. I see programming as something that I want to take for life and I always try to improve my skills by seeking new knowledge for the technologies that are increasingly innovating. Currently, I'm learning React framework, with an emphasis on Web and Mobile platforms, working more on the front-end.
 
+Skills: 
+* ⚛️ REACT 
+* 💻 HTML / CSS / JS
+* 🖥️ Java
 
- 
-</p>
-
-</br>
-</br>
 <p align="center"> <samp>
-👀 <strong>I’m currently looking for a job!</strong><br>
+👀 <strong>I’m currently looking for a job!</strong> 👀<br>
 </p>
 </br>
 
