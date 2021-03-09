@@ -64,9 +64,9 @@ I am currently giving preference to my learning with the React framework, giving
 <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
 <span>
   <img width="50%" align="left" alt="Gerardo Filho's github stats." 
-       src="https://github-readme-stats.vercel.app/api?username=gerardofilho&show_icons=true&hide_border=true" />
-  <img width="45%" align="right"  
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardofilho&layout=compact" />
+       src="https://github-readme-stats.vercel.app/api?username=gerardofilho&show_icons=true&hide_border=true&theme=dark" />
+  <img width="42%" align="right"  
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardofilho&layout=compact&theme=dark" />
        
 </span>
 
