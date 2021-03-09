@@ -1,22 +1,7 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522" width="30"/> 
-  What's up! I'm Gerardo Filho, a web developer and a student of Software Engeering from Fortaleza/CE - Brazil.
+  Hey there! I'm Gerardo Filho, a web developer and a student of Software Engeering from Fortaleza/CE - Brazil.
 </h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/gerardo-magela/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
-  </a>
-  <a href="mailto:gerardo_filho95@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Gerardofilho" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/gerardo.filho95/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-</p>
+
 
 ### About me:
 <p style='text-align: justify' >
@@ -32,6 +17,22 @@
 👀 <strong>I’m currently looking for a job!</strong><br>
 </p>
 </br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gerardo-magela/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>
+  <a href="mailto:gerardo_filho95@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Gerardofilho" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gerardo.filho95/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+</p>
 
 
 ### Languages and Tools:
