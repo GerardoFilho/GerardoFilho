@@ -52,7 +52,7 @@ I am currently giving preference to my learning with the React framework, giving
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
  
-  <img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+
   <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
 
  
