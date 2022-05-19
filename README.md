@@ -7,10 +7,8 @@ Hey there! I'm Gerardo Filho, a web developer and a student of Software Engeerin
 Skills: 
 * ⚛️ REACT 
 * 💻 HTML / CSS / JS
-* 🖥️ Java
 
 <p align="center"> <samp>
-👀 <strong>I’m currently looking for a job!</strong> 👀<br>
 </p>
 </br>
 
