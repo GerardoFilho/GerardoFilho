@@ -1,4 +1,3 @@
-![Web developer](https://github.com/GerardoFilho/GerardoFilho/blob/main/banner.jpg)
 
 ### Hi 👋, my name is Gerardo
 #### Web developer
