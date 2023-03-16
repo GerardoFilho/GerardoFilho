@@ -2,10 +2,10 @@
 ### Hi 👋, my name is Gerardo
 #### Web developer
 
-Hey there! I'm Gerardo Filho, a web developer and a student of Software Engeering from Fortaleza/CE - Brazil. I'm looking for and developing skills in the Front-end area because that's where I had the most interest. I see programming as something that I want to take for life and I always try to improve my skills by seeking new knowledge for the technologies that are increasingly innovating. Currently, I'm learning React framework, with an emphasis on Web and Mobile platforms, working more on the front-end.
+Hey there! I'm Gerardo Filho, a web developer and Software Engeering from Fortaleza/CE - Brazil. I'm developing skills in the Front-end area because that's where I had the most interest. I see programming as something that I want to take for life and I always try to improve my skills by seeking new knowledge for the technologies that are increasingly innovating. Currently, I'm using React, with an emphasis on Web and Mobile platforms, working more on the front-end.
 
 Skills: 
-* ⚛️ REACT 
+* ⚛️ React / React Native
 * 💻 HTML / CSS / JS
 
 <p align="center"> <samp>
